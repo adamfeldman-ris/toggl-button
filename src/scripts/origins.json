@@ -514,5 +514,9 @@
   "teamleader.eu": {
     "url": "*://app.teamleader.eu/*",
     "name": "Teamleader"
+  },
+  "frontapp.com": {
+    "url": "*://app.frontapp.com/*",
+    "name": "Frontapp"
   }
 }
